@@ -10,3 +10,6 @@ snow.png
 
 plasma.png
     Slawomir 'Q009' Blauciak (CC-BY-SA 4.0 or (at your own opinion) any later version of this license)
+
+scorch.png
+    Manfred 'nothing' Koppensteiner (CC-BY-SA 4.0 or (at your own opinion) any later version of this license)
