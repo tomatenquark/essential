@@ -34,3 +34,6 @@ ________________________________________________________________________________
 
 basic512.png:
 	License: CC0 1.0 - https://creativecommons.org/publicdomain/zero/1.0/
+
+watern.jpg, waterfalln.jpg, waterfall.jpg, lava2.jpg:
+        Red Eclipse Team: CC BY-SA 4.0
