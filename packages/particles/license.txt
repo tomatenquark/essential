@@ -18,5 +18,8 @@ lightning.jpg
     Lennard 'Fohlen' Berger (CC0), derived from https://opengameart.org/content/lightning-animation
 
 lensflares.png
-    RedEclipse Team (CC-BY-SA 4.0)
+    Red Eclipse Team (CC-BY-SA 4.0)
+
+blob.png
+    Red Eclipse Team (public domain)
 
