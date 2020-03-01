@@ -1,4 +1,4 @@
-light.jpg liquid.png model.md3
+light.jpg liquid.png model.obj
 
 By Salatiel S. (http://tomatenquark.github.io/)
 
