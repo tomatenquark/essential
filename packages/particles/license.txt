@@ -13,3 +13,13 @@ plasma.png
 
 scorch.png
     Manfred 'nothing' Koppensteiner (CC-BY-SA 4.0 or (at your own opinion) any later version of this license)
+
+lightning.jpg
+    Lennard 'Fohlen' Berger (CC0), derived from https://opengameart.org/content/lightning-animation
+
+lensflares.png
+    Red Eclipse Team (CC-BY-SA 4.0)
+
+blob.png
+    Red Eclipse Team (public domain)
+
