@@ -23,3 +23,5 @@ lensflares.png
 blob.png
     Red Eclipse Team (public domain)
 
+plasma.png
+    Slawomir 'Q009' Blauciak (CC-BY-SA)
