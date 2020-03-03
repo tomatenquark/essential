@@ -32,3 +32,6 @@ smoke.png, flames.png, base.png, steam.png
 explosion.png
     Derived from https://opengameart.org/node/16221 under CC-0 (public domain)
 
+muzzleflash1.jpg, muzzleflash2.jpg, muzzleflash3.jpg
+    https://opengameart.org/content/lens-flares-and-particles under CC-0 (public domain)
+
