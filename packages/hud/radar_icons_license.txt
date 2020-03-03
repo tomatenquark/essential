@@ -1,4 +1,4 @@
-
+hbar (derived from Red Eclipse particles / sflare).
 radar
 blip_neutral_dead	blip_blue_dead	blip_red_dead
 blip_neutral_skull	blip_blue_skull blip_red_skull
