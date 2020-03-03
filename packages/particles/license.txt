@@ -26,9 +26,5 @@ blob.png
 plasma.png
     Slawomir 'Q009' Blauciak (CC-BY-SA)
 
-flames.png
+smoke.png, flames.png, base.png
     Derived from Red Eclipse Particles under CC BY-SA 4.0
-
-smoke.png
-    Derived from Red Eclipse Particles under CC BY-SA 4.0
-
