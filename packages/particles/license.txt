@@ -29,3 +29,6 @@ plasma.png
 flames.png
     Derived from Red Eclipse Particles under CC BY-SA 4.0
 
+smoke.png
+    Derived from Red Eclipse Particles under CC BY-SA 4.0
+
