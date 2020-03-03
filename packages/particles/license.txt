@@ -26,7 +26,7 @@ blob.png
 plasma.png
     Slawomir 'Q009' Blauciak (CC-BY-SA)
 
-smoke.png, flames.png, base.png, steam.png
+smoke.png, flames.png, base.png, steam.png, spark.png
     Derived from Red Eclipse Particles under CC BY-SA 4.0
 
 explosion.png
@@ -34,4 +34,4 @@ explosion.png
 
 muzzleflash1.jpg, muzzleflash2.jpg, muzzleflash3.jpg
     https://opengameart.org/content/lens-flares-and-particles under CC-0 (public domain)
-
+   
