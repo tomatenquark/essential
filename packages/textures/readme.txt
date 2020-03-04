@@ -37,3 +37,6 @@ basic512.png:
 
 watern.jpg, waterfalln.jpg, waterfall.jpg, lava2.jpg:
         Red Eclipse Team: CC BY-SA 4.0
+
+waterdudv.jpg, waterfalldudv.jpg
+    Created from normals using https://github.com/serhiy/texture-manipulation and published by Lennard "Fohlen" Berger under CC BY-SA 4.0
