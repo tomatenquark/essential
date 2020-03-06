@@ -1,0 +1,23 @@
+base.jpg bone.jpg bone_b.jpg
+liquid.png stone.jpg stone_b.jpg
+model.obj
+	|-> base_bowl
+	|-> base_base
+	|-> base_holder
+	|-> base_bone1
+	|-> base_bone2
+	|-> liquid
+	|-> base
+
+By Salatiel S. (http://tomatenquark.github.io/)
+
+Licensed under CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+//////////////////////////////////////////
+
+model.obj
+	|-> skull
+
+By Jean Ayers, 2012
+
+This skull model and its textures are released under Creative Commons Attribution-ShareAlike 3.0 (http://creativecommons.org/licenses/by-sa/3.0/us/).
