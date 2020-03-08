@@ -35,3 +35,5 @@ explosion.png
 muzzleflash1.jpg, muzzleflash2.jpg, muzzleflash3.jpg
     https://opengameart.org/content/lens-flares-and-particles under CC-0 (public domain)
    
+flare.jpg
+    Salatiel, CC BY-SA 4.0
