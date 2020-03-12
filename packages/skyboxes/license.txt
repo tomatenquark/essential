@@ -1,0 +1,3 @@
+clouds01.png, clouds02.png, clouds03.png
+    Licensed under CC BY-SA 3.0 by the Red Eclipse Team (see https://opengameart.org/content/red-eclipse-skyboxes)
+
