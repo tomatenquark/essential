@@ -1,11 +1,12 @@
-These files:
-
+background_decal.png
+background_detail.png
+guicursor.png (based on the Very Basic Cursor by VisualPharm: http://www.visualpharm.com/; Very Basic Cursor was released as linkware)
 guioverlay.png
 guiskin.png
 guislider.png
+license.txt
+loading_frame.png
+mapshot_frame.png
 
-have been licensed under the
-
-"Creative Commons Deed / Attribution Non-commercial Share-Alike ( at-nc-sa )"
-
-(c) 2006-2007 Markus "makkE" Bekel
+(c) 2013 Alexander "pix" Willing
+Released under CC BY-NC (see http://quadropolis.us/node/3883)
