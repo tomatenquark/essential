@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.2] - 2020-03-22
+### Added
+- Added common binds by Salatiel
+- Added more CubeScript tools and a demo recording menu
+
+### Fixed
+- Replace empty texture slot on collide.cfg
+- Fix world-shader alpha
+- Fix alpha-mask fogging
+
 ## [0.0.1] - 2020-03-14
 ### Added
 - This CHANGELOG file to hopefully serve as an evolving example of a
@@ -13,5 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added all files to replace core media of the game with free content (data, hud, icons)
 - Added breakout, collide, frag-lab, luna to the game with their content respectively
 
-[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.1...HEAD
+[Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/v0.0.2...HEAD
+[0.0.2]: https://github.com/tomatenquark/essential/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/tomatenquark/essential/releases/tag/v0.0.1
