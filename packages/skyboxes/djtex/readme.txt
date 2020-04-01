@@ -1,4 +1,4 @@
-by Djakk
+by Djakk - Public Domain
 Three new skyboxes for use with cube engines.
 
 These are three new skyboxes that I have created in my spare time with Terragen.
