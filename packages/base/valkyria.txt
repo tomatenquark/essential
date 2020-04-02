@@ -10,7 +10,39 @@
 //
 ////////////////////////////////////////////////////////////////////////
 
+02.04.2020.
+
 Content related to map Valkyria was made by Ognjen 'Svarog' Robovic in
-Cube 2 GE from scratch. I hope map's fun, and I'll revise this document
-after extensive playtesting, because I don't know yet about items and
-changes I'll maybe need to make.
+Cube 2 GE from scratch. I play-tested the map with bots, since at this
+moment servers are empty, and it plays well.
+
+Notes for future development:
+
+////////////////////////////////////////////////////////////////////////
+
+Jumppads:  8 (3);
+Spawns:   12;
+
+////////////////////////////////////////////////////////////////////////
+
+Shotgun:   4;
+Chaingun:  4;
+RLauncher: 1;
+Rifle:     4;
+GLauncher: 1;
+Pistol:    2;
+
+Health:  4;
+BArmour: 0;
+GArmour: 1;
+YArmour: 0;
+HBoost:  0;
+QDamage: 0;
+
+////////////////////////////////////////////////////////////////////////
+
+Map uses texture slots ordered by (at this moment) default, defined in
+'data/default_map_settings.cfg' which may be deprecated later. eX
+textures were envmapped, and map has 3 'envmap' entities beside sky.
+Careful when using vcommands that affect reflections.
+
