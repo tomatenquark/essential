@@ -14,5 +14,8 @@ radio_off
 radio_on
 server_browser
 sound
+mrfixit
+mrfixit_blue
+mrfixit_red
 
 by wohSiesta - Free, do whatever you want
