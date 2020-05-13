@@ -1,11 +1,13 @@
 hbar (derived from Red Eclipse particles / sflare).
 damage (derived from https://opengameart.org/content/blood-overlay under CC0)
 radar
+
 blip_neutral_dead	blip_blue_dead	blip_red_dead
 blip_neutral_skull	blip_blue_skull blip_red_skull
 blip_neutral_flag	blip_blue_flag	blip_red_flag
 blip_neutral 		blip_blue 		blip_red blip_grey
 blip_neutral_alive 	blip_blue_alive blip_red_alive
+damage.png
 
 By Salatiel S. (http://tomatenquark.github.io/)
 

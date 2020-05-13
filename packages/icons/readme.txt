@@ -17,8 +17,18 @@ sound
 mrfixit
 mrfixit_blue
 mrfixit_red
-
 by wohSiesta - Free, do whatever you want
+
+
+snoutx10k
+snoutx10k_blue
+snoutx10k_red
+server.jpg
+serverfull.jpg
+serverlock.jpg
+serverpriv.jpg
+serverunk.jpg
+by Alexander "pix" Willing - CC BY-NC
 
 
 trash.png by the Tomatenquark team - CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
