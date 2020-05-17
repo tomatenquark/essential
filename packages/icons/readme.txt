@@ -17,7 +17,7 @@ sound
 mrfixit
 mrfixit_blue
 mrfixit_red
-by wohSiesta - Free, do whatever you want
+by wohSiesta - CC BY-SA 4.0
 
 
 snoutx10k
