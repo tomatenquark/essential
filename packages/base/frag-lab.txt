@@ -2,4 +2,4 @@
 Made in 2019
 For Cube 2: Sauerbraten
 
-Licensed under a Creative Commons (BY-NC-ND) license.
+Relicensed under a Creative Commons (BY-Sa 4.0) license for the Tomatenquark project.

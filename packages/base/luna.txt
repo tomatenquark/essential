@@ -3,4 +3,4 @@ with Gangler, Redon, Nieb and Frosty.
 Made in 2019
 For Cube 2: Sauerbraten
 
-Licensed under a Creative Commons (BY-NC-ND) license.
+Relicensed under a Creative Commons (BY-SA 4.0) license for the Tomatenquark project.
