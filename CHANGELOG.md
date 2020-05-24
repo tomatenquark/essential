@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.5] - 2020-05-24
+### Added
+- Added a prefabs gui and some premade prefabs
+- Added map blank, laucin, pandora, hurricane3, gunmetal and deadworld
+
+### Changed
+- Replaced items, ctf and weapon sounds with sounds by ogrobastard
+- Relicensed all work by makKe
+- Use blurlms for lighting on all maps
+- Placed all textures/sounds/models in their correct folders
+- Redone the map / mode selection
+
+### Fixed
+- Fix quaddamage model position
+- Add some cleanups to the water
+
+
 ## [0.0.4] - 2020-05-01
 ### Changed
 - Finished map Valkyria
@@ -53,7 +70,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added all files to replace core media of the game with free content (data, hud, icons)
 - Added breakout, collide, frag-lab, luna to the game with their content respectively
 
-[Unreleased]: https://github.com/tomatenquark/essential/compare/v0.0.4...HEAD
+[Unreleased]: https://github.com/tomatenquark/essential/compare/v0.0.5...HEAD
+[0.0.5]: https://github.com/tomatenquark/essential/compare/v0.0.4...v0.0.5
 [0.0.4]: https://github.com/tomatenquark/essential/compare/v0.0.3...v0.0.4
 [0.0.3]: https://github.com/tomatenquark/essential/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/tomatenquark/essential/compare/v0.0.1...v0.0.2
