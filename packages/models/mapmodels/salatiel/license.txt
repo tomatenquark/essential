@@ -1,4 +1,4 @@
-tq_platform1
+tq_platform1, tq_sign1, white.jpg
 
 By Salatiel S. (http://tomatenquark.github.io/)
 
