@@ -32,3 +32,6 @@ by Alexander "pix" Willing - CC BY-NC
 
 
 trash.png by the Tomatenquark team - CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+thumbsup.png by icons8 -  Free for personal or commercial use with attribution (https://icons8.com/)
