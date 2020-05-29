@@ -17,6 +17,8 @@ sound
 mrfixit
 mrfixit_blue
 mrfixit_red
+minus.png
+plus.png
 by wohSiesta - CC BY-SA 4.0
 
 
