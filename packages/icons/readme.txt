@@ -36,6 +36,7 @@ by Alexander "pix" Willing - CC BY-NC
 trash.png by the Tomatenquark team - CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 
+camera.png
 folder.png
 share.png
 thumbsup.png
