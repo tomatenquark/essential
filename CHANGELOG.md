@@ -8,13 +8,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.1.0] - 2020-07-28
 ### Added
-- Added maps absolute, outpost and tubes
+- Added map `absolute` by Fixxxer, `outpost` by Taurustar and `tubes` by Gangler
 - Added custom maps menu for workshop
+- Added menus for atmosphere and hud customizations
+- Added some new mapmodels by wohSiesta
 
-### Changes
-- Added various sun related fixes from sauer
+### Changed
 - Updates sounds by ogrobastard
 - Overall improvements to coding quality by RaZgRiZ
+- Added Inter UI as the default font
+- Added new menus for custom maps and skyboxes
+
+### Fixed
+- Added various sun related fixes from sauer
+- Fixed key binding menu
 
 ## [0.0.5] - 2020-05-24
 ### Added
