@@ -1,5 +1,7 @@
 camera.png
 folder.png
+link.png
+music.png
 share.png
 steam.png
 thumbsup.png
