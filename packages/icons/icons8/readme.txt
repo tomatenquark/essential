@@ -1,4 +1,5 @@
 camera.png
+entity.png
 folder.png
 link.png
 music.png
