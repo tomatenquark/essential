@@ -5,6 +5,23 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- Added graphical presets to the options menu
+- Added "texture blend" tab to the editing menu
+
+### Changed
+- New ammo models by wohSiesta
+- New water textures by wohSiesta
+- New mapmodel menu by RaZgRiZ
+- `data/menus.cfg` file is now spread across different files in the `data/menus` folder
+- All data files now use tabs for indentation instead of spaces
+- The "resolution" tab is now merged with the "display" tab in the options menu
+
+### Fixed
+- Fixed `absolute` map clipping
+- Fixed `laucin` map thumbnail
+- Fixed `frag-lab` map skybox
+- Fixed missing song
 
 ## [0.1.0] - 2020-07-28
 ### Added
